@@ -2,23 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ichuna.com/update/index.html</loc>
+    <loc>http://ichuna.com/download/index.html</loc>
     
-    <lastmod>2018-10-31T02:54:57.129Z</lastmod>
+    <lastmod>2019-01-31T02:35:01.044Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ichuna.com/demo/index.html</loc>
+    <loc>http://ichuna.com/update/index.html</loc>
     
-    <lastmod>2018-10-28T23:49:56.551Z</lastmod>
+    <lastmod>2019-01-31T02:30:07.781Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_8/</loc>
+    
+    <lastmod>2018-12-25T03:04:48.696Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_7/</loc>
+    
+    <lastmod>2018-12-25T03:04:48.687Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_6/</loc>
+    
+    <lastmod>2018-12-25T03:04:48.680Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_5/</loc>
+    
+    <lastmod>2018-12-25T03:04:48.670Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_4/</loc>
+    
+    <lastmod>2018-12-25T03:04:48.659Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://ichuna.com/home/index.html</loc>
     
-    <lastmod>2018-08-01T10:21:14.914Z</lastmod>
+    <lastmod>2018-12-25T03:04:46.483Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_9/</loc>
+    
+    <lastmod>2018-12-25T03:03:11.742Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_3/</loc>
+    
+    <lastmod>2018-12-25T03:02:39.438Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_2/</loc>
+    
+    <lastmod>2018-12-25T03:02:32.142Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_13/</loc>
+    
+    <lastmod>2018-12-25T03:02:21.109Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_12/</loc>
+    
+    <lastmod>2018-12-25T03:02:14.222Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_11/</loc>
+    
+    <lastmod>2018-12-25T03:02:06.678Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_10/</loc>
+    
+    <lastmod>2018-12-25T03:01:58.869Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo_1/</loc>
+    
+    <lastmod>2018-12-25T03:01:49.846Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/baidu-01/</loc>
+    
+    <lastmod>2018-12-25T03:01:35.566Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/demo/index.html</loc>
+    
+    <lastmod>2018-11-29T08:47:22.801Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/about/index.html</loc>
+    
+    <lastmod>2018-11-21T00:26:51.671Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ichuna.com/wukong-story/</loc>
+    
+    <lastmod>2018-11-15T07:52:31.705Z</lastmod>
     
   </url>
   
@@ -37,30 +156,9 @@
   </url>
   
   <url>
-    <loc>http://ichuna.com/download/index.html</loc>
-    
-    <lastmod>2018-07-25T10:22:31.213Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/about/index.html</loc>
-    
-    <lastmod>2018-07-20T15:04:18.333Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://ichuna.com/case/index.html</loc>
     
     <lastmod>2018-05-17T06:48:57.238Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ichuna.com/wukong-story/</loc>
-    
-    <lastmod>2018-05-12T03:37:41.722Z</lastmod>
     
   </url>
   
